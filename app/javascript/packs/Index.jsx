@@ -2,9 +2,9 @@ import React from "react";
 import { render } from "react-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
-import App from "../react/App";
+import App from "../App";
 import {BrowserRouter as Router} from 'react-router-dom'
-import configureStore from "../react/redux/configureStore";
+import configureStore from "../redux/configureStore";
 import {Provider} from 'react-redux';
 
 const store = configureStore();
