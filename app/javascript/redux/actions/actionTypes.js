@@ -1,1 +1,1 @@
-export const CREATE_COURSE = 'CREATE_COURSE'
+export const FETCH_FLIGHTS = 'FETCH_FLIGHTS'

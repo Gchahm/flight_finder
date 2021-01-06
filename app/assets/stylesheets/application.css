@@ -1,3 +1,5 @@
+
+
 .bg_primary-color {
     background-color: #FFFFFF;
 }
@@ -33,4 +35,20 @@
     height: 100%;
     width: 100%;
     opacity: 0.4;
+}
+
+
+.itinerary-box {
+    padding: 0.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.itinerary-line {
+    height: 0;
+    max-height: 0;
+    border: 1px solid black;
+}
+
+.itinerary-line-content {
+    position: absolute;
 }
