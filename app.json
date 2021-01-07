@@ -1,0 +1,8 @@
+{
+  "name": "Flight Finder",
+  "description": "A simple flight finder app that allows for flight search only",
+  "image": "heroku/ruby",
+  "repository": "https://github.com/Gchahm/flight_finder",
+  "keywords": ["ruby", "rails" ],
+  "addons": ["heroku-postgresql"]
+}
